@@ -43,7 +43,8 @@
         "shaka-player": "^2.5.9"
     },
     "scripts": {
-        "lint": "yarn eslint *.js"
+        "lint": "yarn eslint *.js",
+        "check": "echo 'No check to do'"
     },
     "files": [
         "android-exoplayer",
